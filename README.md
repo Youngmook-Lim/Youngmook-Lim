@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=150&section=header&text=Youngmook&%20render&fontSize=90"/>
 
 <p align="center">
